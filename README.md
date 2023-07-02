@@ -9,11 +9,9 @@ This is the README file for the Food Ordering Website project. In this document,
 - Azure Services
 - Screenshots
 
-## Website link
-https://nice-ground-00db9ed00.3.azurestaticapps.net
-
-## Project Demo
-<yt_link_here>
+## Website link & Demo
+- Webpage: https://nice-ground-00db9ed00.3.azurestaticapps.net
+- Project Demo: 
  
 ## Description
 The Yogic website is a comprehensive platform dedicated to the practice and exploration of yoga. It offers a wide range of resources, tools, and information to support individuals on their yoga journey.
