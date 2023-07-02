@@ -1,6 +1,6 @@
-# Yogic Lifestyle Website
+# Yoggo Lifestyle Website
 The website provides a collection of informative articles, tutorials, and videos that cover different styles of yoga, meditation techniques, breathing exercises, and mindfulness practices.
-This is the README file for the Food Ordering Website project. In this document, you will find important information about the project, its features, and other relevant details.
+This is the README file for the Yoggo Website project. In this document, you will find important information about the project, its features, and other relevant details.
 
 ## Table of Contents
 - Website & Project Demo link
