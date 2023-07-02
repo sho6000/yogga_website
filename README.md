@@ -2,13 +2,6 @@
 The website provides a collection of informative articles, tutorials, and videos that cover different styles of yoga, meditation techniques, breathing exercises, and mindfulness practices.
 This is the README file for the Yoggo Website project. In this document, you will find important information about the project, its features, and other relevant details.
 
-## Table of Contents
-- Website & Project Demo link
-- Description
-- Features
-- Azure Services
-- Screenshots
-
 ## Website link & Demo
 - Webpage: https://nice-ground-00db9ed00.3.azurestaticapps.net
 - Project Demo: 
