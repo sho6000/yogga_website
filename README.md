@@ -6,14 +6,12 @@ This is the README file for the Food Ordering Website project. In this document,
 - Website & Project Demo link
 - Description
 - Features
+- Azure Services
 - Screenshots
-- Services Used
 
-## Website link
-https://nice-ground-00db9ed00.3.azurestaticapps.net
-
-## Project Demo
-<yt_link_here>
+## Website link & Demo
+- Webpage: https://nice-ground-00db9ed00.3.azurestaticapps.net
+- Project Demo: 
  
 ## Description
 The Yogic website is a comprehensive platform dedicated to the practice and exploration of yoga. It offers a wide range of resources, tools, and information to support individuals on their yoga journey.
@@ -32,6 +30,14 @@ The website also features expert-led tutorials and demonstrations, helping users
 - Captivating Graphics: Responsive Webpage: The Yogic website is designed to be fully responsive, ensuring optimal viewing and interaction across a wide range of devices and screen sizes. Whether accessed on a 
   desktop computer, laptop, tablet, or smartphone, the website automatically adapts its layout and content to provide a seamless and user-friendly experience.
 
+## Azure Services
+- Azure Bot
+- Static Web Apps
+
 ## Screenshots
 
+![Home page](https://github.com/sho6000/yogic_website/blob/master/screenshots/1.png)
+![Screenshot (450)](https://github.com/sho6000/yogic_website/blob/master/screenshots/2.png)
+![Screenshot (452)](https://github.com/sho6000/yogic_website/blob/master/screenshots/3.png)
+![Screenshot (449)](https://github.com/sho6000/yogic_website/blob/master/screenshots/4.png)
 
