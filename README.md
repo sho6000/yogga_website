@@ -34,4 +34,10 @@ The website also features expert-led tutorials and demonstrations, helping users
 
 ## Screenshots
 
+![Home page](https://github.com/sho6000/yogic_website/blob/master/screenshots/1.png)
 
+![Screenshot (450)](https://github.com/sho6000/yogic_website/blob/master/screenshots/2.png)
+
+![Screenshot (452)](https://github.com/sho6000/yogic_website/blob/master/screenshots/3.png)
+
+![Screenshot (449)](https://github.com/sho6000/yogic_website/blob/master/screenshots/4.png)
