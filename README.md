@@ -19,6 +19,7 @@ The Yogic website is a comprehensive platform dedicated to the practice and expl
 At Yogic, users can access a variety of yoga-related content, including instructional videos, guided meditations, and informative articles. The website covers different yoga styles, from Hatha and Vinyasa to Kundalini and Restorative, providing users with options to suit their preferences and goals.
 
 The website also features expert-led tutorials and demonstrations, helping users learn and master various yoga poses and sequences. Additionally, there are resources available on yoga philosophy, mindfulness practices, and the benefits of yoga for physical, mental, and emotional well-being.
+
  
  ## Features
 - Yoga Classes and Tutorials: The website provides a collection of yoga classes and tutorials in various styles and difficulty levels. Users can access instructional videos that guide them through different yoga   
@@ -33,6 +34,11 @@ The website also features expert-led tutorials and demonstrations, helping users
 ## Azure Services
 - Azure Bot
 - Static Web Apps
+
+## Languages 
+- HTML
+- CSS
+- JS
 
 ## Screenshots
 
