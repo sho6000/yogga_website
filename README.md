@@ -4,8 +4,11 @@ This is the README file for the Yoggo Website project. In this document, you wil
 
 ## Website link & Demo
 - Webpage: https://nice-ground-00db9ed00.3.azurestaticapps.net
-- Project Demo: https://youtu.be/9hZT-0kwnA0
- 
+- Project Demo URL: https://youtu.be/9hZT-0kwnA0
+
+## Collaboraters
+- @sho6000 & @varanofficial
+
 ## Description
 The Yogic website is a comprehensive platform dedicated to the practice and exploration of yoga. It offers a wide range of resources, tools, and information to support individuals on their yoga journey.
 
